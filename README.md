@@ -2,9 +2,11 @@
 
 ### Bem-vindo ou Bem-vinda ao meu github ! 👋
 
-
-* Estudante de desenvolvimento web da Trybe 🚀
-* Futuro desenvolvedor Full Stack  🧑‍💻  
+<div style="display: flexbox; justify-content: space beetween;">
+<p>* Estudante de desenvolvimento web da Trybe 🚀
+* Futuro desenvolvedor Full Stack  🧑‍💻<p>
+<img src= "https://mamutedev.files.wordpress.com/2022/08/huge.png" size="100px"/>
+</div>
 
 <div>
   <a href="https://github.com/MamuteDev">
