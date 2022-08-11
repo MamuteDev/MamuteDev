@@ -6,7 +6,6 @@
 * Estudante de desenvolvimento web da Trybe 🚀
 * Futuro desenvolvedor Full Stack  🧑‍💻  
 
-<img size="100px" src="https://drive.google.com/file/d/140xP6jy7uBtAbeOAhom3hpofa9kS-be-/view?usp=sharing" />
 <div>
   <a href="https://github.com/MamuteDev">
   <img height="165em"  src="https://github-readme-stats.vercel.app/api?username=MamuteDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
