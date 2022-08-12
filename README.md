@@ -1,20 +1,22 @@
 ## Bem-vindo ou Bem-vinda ao meu github ! 👋
 ### Me chamo Lucas, mas sou conhecido como Mamute.<br>
 <img width="20%" src="https://mamutedev.files.wordpress.com/2022/08/logo.png"/><p>
+<div style="display: inline_block">
 <p>• Hoje sou um estudante de desenvolvimento web na Trybe 🚀<br>
-• Amanhã serei um futuro desenvolvedor Full Stack  🧑‍💻<p>
+• Amanhã serei um futuro desenvolvedor Full Stack  🧑‍💻<br>
+• Tecnologias que estou aprendendo na trybe:  
+  <img align="end" alt="Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="end" alt="HTML" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="end" alt="CSS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="end" alt="React" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div></p>
 
 <div>
   <a href="https://github.com/MamuteDev">
   <img width="40%"  src="https://github-readme-stats.vercel.app/api?username=MamuteDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
    <img  width ="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamuteDev&&langs_count=7&theme=github_dark"/>
 </div>
- <div style="display: inline_block">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div><br>
+
  
   ![Snake animation](https://github.com/MamuteDev/MamuteDev/blob/output/github-contribution-grid-snake.svg)
   
