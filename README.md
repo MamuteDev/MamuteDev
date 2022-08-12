@@ -13,8 +13,8 @@
 
 <div>
   <a href="https://github.com/MamuteDev">
-  <img width="40%"  src="https://github-readme-stats.vercel.app/api?username=MamuteDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-   <img  width ="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamuteDev&&langs_count=7&theme=github_dark"/>
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=MamuteDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+   <img  width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamuteDev&&langs_count=7&theme=github_dark"/>
 </div>
 
  
