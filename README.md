@@ -1,5 +1,5 @@
 ## Bem-vindo ou Bem-vinda ao meu github ! 👋
-### Me chamo Lucas, mas sou conhecido como Mamute.<br>
+### Me chamo Lucas, mas podem me chamar de Mamute.<br>
 <img width="20%" src="https://mamutedev.files.wordpress.com/2022/08/logo.png"/><p>
 <div style="display: inline_block">
 <p>• Hoje sou um estudante de desenvolvimento web na Trybe 🚀<br>
