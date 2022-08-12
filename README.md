@@ -1,18 +1,13 @@
-## Olá, eu sou o Lucas, também conhecido como Mamute. Muito Prazer !
-
-### Bem-vindo ou Bem-vinda ao meu github ! 👋
-
-<div style="display: flexbox; justify-content: space beetween;">
-<p>* Estudante de desenvolvimento web da Trybe 🚀<br>
-* Futuro desenvolvedor Full Stack  🧑‍💻<p>
-<img src= "https://mamutedev.files.wordpress.com/2022/08/huge.png" size="100px"/>
-</div>
+## Bem-vindo ou Bem-vinda ao meu github ! 👋
+### Me chamo Lucas, mas sou conhecido como Mamute.<br>
+<img width="20%" src="https://mamutedev.files.wordpress.com/2022/08/logo.png"/><p>
+<p>• Hoje sou um estudante de desenvolvimento web na Trybe 🚀<br>
+• Amanhã serei um futuro desenvolvedor Full Stack  🧑‍💻<p>
 
 <div>
   <a href="https://github.com/MamuteDev">
-  <img height="165em"  src="https://github-readme-stats.vercel.app/api?username=MamuteDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-   <img  height ="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamuteDev&&langs_count=7&theme=github_dark"/>
-
+  <img width="40%"  src="https://github-readme-stats.vercel.app/api?username=MamuteDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+   <img  width ="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamuteDev&&langs_count=7&theme=github_dark"/>
 </div>
  <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
