@@ -3,7 +3,7 @@
 ### Bem-vindo ou Bem-vinda ao meu github ! 👋
 
 <div style="display: flexbox; justify-content: space beetween;">
-<p>* Estudante de desenvolvimento web da Trybe 🚀
+<p>* Estudante de desenvolvimento web da Trybe 🚀<br>
 * Futuro desenvolvedor Full Stack  🧑‍💻<p>
 <img src= "https://mamutedev.files.wordpress.com/2022/08/huge.png" size="100px"/>
 </div>
