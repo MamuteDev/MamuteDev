@@ -1,4 +1,4 @@
-<img style="align_items: center" width="100%" src="https://mamutedev.files.wordpress.com/2022/08/mamute-banner-1.png"/><p>
+<img style="align_items: center" width="120%" src="https://mamutedev.files.wordpress.com/2022/08/mamute-banner-1.png"/><p>
 
 ### Prazer ! Me chamo Lucas, mas podem me chamar de Mamute.<br>
 
