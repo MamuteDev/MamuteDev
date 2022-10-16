@@ -4,7 +4,7 @@
 
 <div style="display: inline_block">
 <p>• Hoje sou um estudante de desenvolvimento web na Trybe 🚀<br>
-• Amanhã serei um futuro desenvolvedor Full Stack  🧑‍💻<br>
+• Em breve serei um futuro desenvolvedor Full Stack  🧑‍💻<br>
 • Tecnologias que estou aprendendo na trybe:  
   <img align="end" alt="Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="end" alt="HTML" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
