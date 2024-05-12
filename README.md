@@ -1,10 +1,10 @@
 <img style="align_items: center" width="120%" src="https://mamutedev.files.wordpress.com/2022/08/mamute-banner-1.png"/><p>
 
-### Prazer ! Me chamo Lucas, mas podem me chamar de Mamute.<br>
+### Prazer ! Me chamo Lucas, mas também sou conhecido como Mamute.<br>
 
 <div style="display: inline_block">
-<p>• Hoje sou um estudante de desenvolvimento web na Trybe 🚀<br>
-• Em breve serei um futuro desenvolvedor Full Stack  🧑‍💻<br>
+<p>• No último módulo do curso de desenvolvimento web na Trybe 🚀<br>
+• Desenvolvedor Full Stack 🧑‍💻<br>
 • Tecnologias que estou aprendendo na trybe:  
   <img align="end" alt="Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="end" alt="HTML" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,10 +18,8 @@
    <img  width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamuteDev&&langs_count=7&theme=github_dark"/>
 </div>
 
- 
-  ![Snake animation](https://github.com/MamuteDev/MamuteDev/blob/output/github-contribution-grid-snake.svg)
   
-### Onde me encontrar ?
+### Onde me encontrar:
  
 <div>
   <a href="https://www.linkedin.com/in/lucaslirasc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
